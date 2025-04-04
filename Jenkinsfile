@@ -1,3 +1,4 @@
+  GNU nano 8.3                      Jenkinsfile
 pipeline {
     agent any
     stages {
@@ -49,3 +50,23 @@ pipeline {
         }
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
